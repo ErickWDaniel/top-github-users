@@ -8918,6 +8918,22 @@ There are `939 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>kijitonyama, Dar es salaam</td>
 		<td>1</td>
 	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/erickwdaniel">
+				<img src="https://avatars.githubusercontent.com/u/55766361?s=72&u=f32461e737ee88dcbce8f20fb4e37454f58a4b6a&v=4" width="24" alt="Avatar of Erick_Wilfred">Erick Wilfred Daniel
+			</a><br/>
+			Erick Wilfred
+		</td>
+		<td>Freelance</td>
+		<td><a href="https://twitter.com/erickwilfred__">Erick Wilfred Daniel</a></td>
+		<td><a href="www.linkedin.">erickwilfreddaniel@gmail.com</a></td>
+		<td>Tanzania</td>
+		<td>1129</td>
+	</tr>
+	
+		
 </table>
 
 ### 🚀 Share on
